@@ -1,6 +1,7 @@
 import React from 'react';
+import Navbar from './Navbar.jsx';
 
-export defualt function Home() {
+export function Home() {
   return (
     <div>
     <h1> Hello from the Home page </h1>
@@ -8,3 +9,4 @@ export defualt function Home() {
     );
 }
 
+export
